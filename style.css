@@ -1,0 +1,23 @@
+.carousel-item{
+    padding: 20px 40px;
+}
+.navbar-light {
+    background-color: white !important;
+    font-weight: bold;
+    color:gray
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border:none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.carousel-indicators li{
+    background-color: rgba(255, 196, 0, 0.918);
+    height: 10px;
+    width: 40px;
+    border-radius: 20%;
+    
+}
