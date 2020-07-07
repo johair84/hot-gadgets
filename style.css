@@ -1,23 +1,63 @@
-.carousel-item{
-    padding: 20px 40px;
+.container{
+    margin-bottom: 100px;
 }
-.navbar-light {
+.bg-light{
     background-color: white !important;
-    font-weight: bold;
-    color:gray
 }
 .buy-now-button{
     background-color: black;
-    color: white;
+    color:white;
     border:none;
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
 }
-.carousel-indicators li{
-    background-color: rgba(255, 196, 0, 0.918);
-    height: 10px;
-    width: 40px;
-    border-radius: 20%;
+.card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding: 3%;
+    text-align: center;
+}
+.card p{
+    color: rgb(129, 124, 124);
+}
+.card-footer{
+    background-color: white;
+    border:none
+}
+.phones h3{
+    padding-bottom: 20px;
+}
+.laptop h3{
+    padding-bottom: 20px;
+}
+.catagory h3{
+    text-align: center;
+    padding-bottom: 20px;
     
 }
+.cat-image{
+    width: 100%;
+    height: 100%;
+}
+
+.cat-card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    background-color: red;
+    padding:5%;
+    width: 100%;
+    height: 100%;
+    margin: 10%;
+}
+
+.underline{
+    border: 5px solid rgb(231, 220, 60);
+    width: 5%;
+    border-radius: 4px;
+}
+   
+
+
